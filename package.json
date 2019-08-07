@@ -1,0 +1,22 @@
+{
+    "name": "fecli",
+    "version": "0.1.0",
+    "description": "cli",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "fe-cli": "./bin/index.js"
+    },
+    "dependencies": {
+        "chalk": "^2.3.2",
+        "cli-table": "^0.3.1",
+        "co": "^4.6.0",
+        "co-prompt": "^1.0.0",
+        "commander": "^2.15.1",
+        "ora": "^2.0.0"
+    },
+    "author": "shenlisha",
+    "license": "ISC"
+}
