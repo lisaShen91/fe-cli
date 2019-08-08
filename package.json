@@ -1,6 +1,6 @@
 {
-    "name": "fecli",
-    "version": "0.1.0",
+    "name": "ksc-fe-cli",
+    "version": "0.0.1",
     "description": "cli",
     "main": "index.js",
     "scripts": {
