@@ -1,4 +1,6 @@
 node_modules/
 .idea
 .eslintrc.js
+package-lock.json
+yarn.lock
 

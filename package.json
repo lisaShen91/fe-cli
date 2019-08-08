@@ -1,6 +1,7 @@
 {
     "name": "ksc-fe-cli",
     "version": "0.0.1",
+    "author": "shenlisha",
     "description": "cli",
     "main": "index.js",
     "scripts": {
@@ -17,6 +18,10 @@
         "commander": "^2.15.1",
         "ora": "^2.0.0"
     },
-    "author": "shenlisha",
-    "license": "ISC"
+    "license": "ISC",
+    "keywords": [
+        "ksc",
+        "cli",
+        "fe"
+    ]
 }
